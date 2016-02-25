@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite time='0.001493' skipped='0' failures='0' errors='0' name="OneTest" assertions='1' tests='1'>
-  <testcase time='0.001493' file="test/integration/one_test.rb" name="test_one" assertions='1'>
-  </testcase>
-</testsuite>
